@@ -1,0 +1,13 @@
+{
+    "name": "zzfu/zz-swoole",
+    "description": "swoole 测试",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fufu",
+            "email": "ch5688@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
